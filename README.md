@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cebisatwani
+- 👋 Hi, Cebisa Jacob Twani
 - 👀 I’m interested in Web Development and Cyber Security 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on JavaScript & C# projects
